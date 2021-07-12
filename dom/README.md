@@ -20,4 +20,4 @@ the operators on the calculator are:
 
 The calculator also features a A/C button which clears all values entered into the calculator up to the point of the button being pressed.
 
-And also features a +/- button which converts the number currently being entered into the calculator to either positive or negative.  
+And also features a +/- button which converts the number currently being entered into the calculator from positive to negative or negative to positive.  
